@@ -1,9 +1,9 @@
 
 # FlexLinearLayout
 
-[![pub package](https://img.shields.io/pub/v/flex_linear_layout.svg)](https://pub.dev/packages/flex_linear_layout)  
-[![likes](https://badges.bar/pub-likes/flex_linear_layout)](https://pub.dev/packages/flex_linear_layout/score)  
-[![points](https://badges.bar/pub-points/flex_linear_layout)](https://pub.dev/packages/flex_linear_layout/score)
+[![pub package](https://img.shields.io/pub/v/flex_linear_layout.svg)](https://pub.dev/packages/adaptive_linear_layout)  
+[![likes](https://badges.bar/pub-likes/flex_linear_layout)](https://pub.dev/packages/adaptive_linear_layout/score)  
+[![points](https://badges.bar/pub-points/flex_linear_layout)](https://pub.dev/packages/adaptive_linear_layout/score)
 
 **FlexLinearLayout** dynamically switches between `Row` and `Column` based on screen orientation, with optional reversal of child order.
 
@@ -68,7 +68,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flex_linear_layout: ^0.0.1
+  flex_linear_layout: ^0.0.2
 ```
 
 Then run:
