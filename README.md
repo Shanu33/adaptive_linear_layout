@@ -87,14 +87,14 @@ flutter pub get
 ### 1. Portrait Layout
 > On Portrait Screen the first child (image) is on top and the second child (container) is below it.
 
-![Portrait example](example/screenshots/Mobile.png)
+![Portrait example](example/screenshots/Mobile.jpg)
 
 ---
 
 ### 2. Landscape/Desktop Layout
 > On Landscape/Desktop Screen the image is on the right, container on the left.
 
-![Landscape example](example/screenshots/MobileLandscape.png)
+![Landscape example](example/screenshots/MobileLandscape.jpg)
 
 ---
 
