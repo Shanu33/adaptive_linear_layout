@@ -1,0 +1,26 @@
+name: flex_linear_layout
+description: A Flutter widget that switches between Row and Column based on screen dimensions and orientation, with optional reverse direction support.
+version: 0.0.1
+publish_to: https://pub.dev
+
+homepage: https://github.com/Shanu33
+repository: https://github.com/Shanu33/FlexLinearLayout
+issue_tracker: https://github.com/Shanu33/FlexLinearLayout/issues
+
+authors:
+  - Shahnawaz Khan <shahnawaz.sk230@gmail.com>
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
