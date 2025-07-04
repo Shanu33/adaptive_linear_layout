@@ -127,6 +127,15 @@ If you find my work useful, consider supporting me:
 
 ---
 
+## 🙏 Credits
+
+Special thanks to [**Marwan**](https://www.figma.com/@MMarwan?fuid=1518655903515858290)  
+for the original [Login UI Template on Figma](https://www.figma.com/design/Q9MAaLfWaffLHsjQlKY2ey/Login-Page--Community-).
+
+This layout and logic was inspired by his beautiful design work 💙
+
+---
+
 ## License
 
 MIT © Shahnawaz Khan
