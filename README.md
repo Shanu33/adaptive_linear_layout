@@ -1,9 +1,9 @@
 
 # AdaptiveLinearLayout
 
-[![pub package](https://img.shields.io/pub/v/adaptive_linear_layout.svg)](https://pub.dev/packages/adaptive_linear_layout)  
-[![likes](https://badges.bar/pub-likes/adaptive_linear_layout)](https://pub.dev/packages/adaptive_linear_layout/score)  
-[![points](https://badges.bar/pub-points/adaptive_linear_layout)](https://pub.dev/packages/adaptive_linear_layout/score)
+[![pub package](https://img.shields.io/pub/v/adaptive_linear_layou.svg?logo=dart)](https://pub.dev/packages/adaptive_linear_layou)
+[![Likes](https://img.shields.io/pub/likes/adaptive_linear_layou?logo=dart)](https://pub.dev/packages/adaptive_linear_layou)
+[![Pub Points](https://img.shields.io/pub/points/adaptive_linear_layou?logo=dart)](https://pub.dev/packages/adaptive_linear_layou)
 
 **AdaptiveLinearLayout** dynamically switches between `Row` and `Column` based on screen orientation, with optional reversal of child order.
 
@@ -68,7 +68,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  adaptive_linear_layout: ^0.0.5
+  adaptive_linear_layout: ^0.0.6
 ```
 
 Then run:
