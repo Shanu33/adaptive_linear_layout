@@ -68,7 +68,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  adaptive_linear_layout: ^0.0.4
+  adaptive_linear_layout: ^0.0.5
 ```
 
 Then run:

@@ -1,6 +1,6 @@
 name: adaptive_linear_layout
 description: A Flutter widget that switches between Row and Column based on screen dimensions and orientation, with optional reverse direction support.
-version: 0.0.4
+version: 0.0.5
 
 homepage: https://github.com/Shanu33
 repository: https://github.com/Shanu33/FlexLinearLayout
