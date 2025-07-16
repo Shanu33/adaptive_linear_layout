@@ -2,9 +2,9 @@
 # AdaptiveLinearLayout
 
 [![pub package](https://img.shields.io/pub/v/adaptive_linear_layout.svg?logo=dart)](https://pub.dev/packages/adaptive_linear_layout)
-[![Likes](https://img.shields.io/pub/likes/adaptive_linear_layout?logo=dart)](https://pub.dev/packages/adaptive_linear_layout)
-[![Pub Points](https://img.shields.io/pub/points/adaptive_linear_layout?logo=dart)](https://pub.dev/packages/adaptive_linear_layout)
-[![Pub Downloads](https://img.shields.io/pub/downloads/adaptive_linear_layout?logo=dart)](https://pub.dev/packages/adaptive_linear_layout)
+[![Likes](https://img.shields.io/pub/likes/adaptive_linear_layout.svg?logo=dart)](https://pub.dev/packages/adaptive_linear_layout)
+[![Pub Points](https://img.shields.io/pub/points/adaptive_linear_layout.svg?logo=dart)](https://pub.dev/packages/adaptive_linear_layout)
+[![Pub Downloads](https://img.shields.io/pub/downloads/adaptive_linear_layout.svg?logo=dart)](https://pub.dev/packages/adaptive_linear_layout)
 
 
 **AdaptiveLinearLayout** dynamically switches between `Row` and `Column` based on screen orientation, with optional reversal of child order.
